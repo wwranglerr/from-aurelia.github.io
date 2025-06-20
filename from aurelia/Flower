@@ -20,7 +20,7 @@ Mau custom web ucapan online & tanpa watermark? Order Aja di Deka Tutorial !! (D
 
     <script>
       ucapan = `I LOVE YOU, LAM`;
-      musik = ``;
+      musik = `lagu.mp3`;
       nomorWhatsapp = ``;
       idTelegram = ``;
 
